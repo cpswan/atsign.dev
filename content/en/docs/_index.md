@@ -5,7 +5,6 @@ linkTitle: "Docs"
 content: "The @platform docs for building end-to-end encrypted apps"
 Description: "All the documentation you need for building apps on the @platform"
 
-# weight: 20
 menu:
   main:
     weight: 1
@@ -49,7 +48,7 @@ As the heart of the @platform, we developed the @protocol in [Dart](https://dart
 
 Our Co-Founder and CTO, [Colin Constable](https://www.linkedin.com/in/colinconstable/), has a message for you!
 
-<iframe src="https://player.vimeo.com/video/472448831?title=0&amp;byline=0&amp;portrait=0" class="video-frame video_box" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="true"></iframe>
+<iframe src="https://player.vimeo.com/video/641981639?title=0&amp;byline=0&amp;portrait=0" class="video-frame video_box" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="true"></iframe>
 
 ## Where should I go next?
 
